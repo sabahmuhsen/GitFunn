@@ -1,0 +1,15 @@
+/*ul {
+  list-style-type: none; }
+
+* {
+  background: red; }
+  */
+  nav ul li a{ background:#f1fiod1;display:block;padding:5% 12%; font-weight:bold;font-size:24;}
+  nav ul li a:hover, nav ul li.active a{background-color:#878e63;color:#fifod1;} 
+  .banner img{width:100%;border-top:1px solid red;}
+
+  .left-col{width:35%;float:left;margin:-2% 1% 2% 1%;}
+  .clearfix{clear:both}
+  .sidebar{width:40;float:right;margin:1%;text-align:center}
+  .therapy{float:left;margin:0 auto;width:100%;height:auto;padding:1%}
+  
